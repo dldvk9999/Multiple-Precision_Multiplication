@@ -7,3 +7,5 @@
 - 주석처리 되지 않은 모든 코드는 openmp를 이용하지 않고 매우 큰 수의 곱을 진행합니다.
 - 참고하실 분들은 참고 하시면 됩니다.
 - 참고로 리눅스 버전입니다.
+
+![result](https://user-images.githubusercontent.com/47880131/107837979-ecf02980-6de6-11eb-9171-cdff3dd23191.png)
